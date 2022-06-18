@@ -1,0 +1,14 @@
+/*nome da cor*/
+#primeiro-titulo{
+    color: magenta;
+}
+
+/*hexa decimal*/
+#segundo-titulo{
+    color: #05a3f5
+}
+
+/*RGB red green blue*/
+#segundo-titulo{
+    color: rgb(81, 31, 173) ; 
+ }

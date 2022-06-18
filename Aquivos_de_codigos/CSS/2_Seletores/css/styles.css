@@ -1,0 +1,25 @@
+/*tag*/
+h1 {
+   color: red;
+   font-size: 60px; 
+}
+/*class*/
+.paragrafo {
+   color: yellow ;
+   background-color: rgb(93, 78, 107);
+
+/*id*/
+}
+#segundo-titulo{
+   color: brown; 
+}
+
+/*div 1*/
+
+p {
+   color: red ; 
+}
+/*div 2*/
+.box .paragrafo-box {
+   color: green ; 
+}
